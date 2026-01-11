@@ -1,7 +1,8 @@
 {
   "name": "machine1",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "設備預約管理系統 - Equipment Booking System",
+  "homepage": "https://yuyushih808-training.github.io/machine1/",
   "type": "module",
   "scripts": {
     "dev": "vite",
